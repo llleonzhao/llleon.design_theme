@@ -1,0 +1,520 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nora\n"
+"POT-Creation-Date: 2017-02-06 12:37+0500\n"
+"PO-Revision-Date: 2017-02-07 10:43+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:8
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid "Ooopps. The page you were looking for, could not be found."
+msgstr ""
+
+#: admin/customizer/functions.php:15
+msgid "Main Settings"
+msgstr ""
+
+#: admin/customizer/functions.php:23
+msgid "Image Logo"
+msgstr ""
+
+#: admin/customizer/functions.php:33
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/customizer/functions.php:45 footer.php:6
+msgid "Copyright © 2017 Nora."
+msgstr ""
+
+#: admin/customizer/functions.php:50
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/customizer/functions.php:60
+msgid "Behance link"
+msgstr ""
+
+#: admin/customizer/functions.php:70
+msgid "Instagram link"
+msgstr ""
+
+#: admin/customizer/functions.php:80
+msgid "Twitter link"
+msgstr ""
+
+#: admin/customizer/functions.php:90
+msgid "Dribbble link"
+msgstr ""
+
+#: admin/customizer/functions.php:100
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/customizer/functions.php:106
+msgid "Styling Options"
+msgstr ""
+
+#: admin/customizer/functions.php:116
+msgid "Accent Color"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#: admin/tgm/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:828
+#: admin/tgm/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:935
+#: admin/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template-portfolio.php:53
+msgid "All"
+msgstr ""
+
+#: template-portfolio.php:68
+#, php-format
+msgid ""
+"You have not added any portfolio items yet!"
+msgstr ""
+
+#: attachment.php:20 page.php:12 templates/blog-details.inc.php:27
+#: single.php:12 template-contact.php:39
+msgid "Read More"
+msgstr ""
+
+#: comments.php:15
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Submit"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Navigation"
+msgstr ""
+
+#: includes/helper.php:200
+msgid " ago"
+msgstr ""
+
+#: includes/helper.php:239
+msgid "Name"
+msgstr ""
+
+#: includes/helper.php:245
+msgid "Email"
+msgstr ""
+
+#: includes/helper.php:251
+msgid "Website"
+msgstr ""
+
+#: includes/helper.php:269
+msgid "Comment"
+msgstr ""
+
+#: includes/helper.php:285
+msgid "Custom Avatar"
+msgstr ""
+
+#: index.php:38 index.php:75 index.php:108
+msgid "No posts were found."
+msgstr ""
+
+#: templates/hero.inc.php:16
+msgid "Search Results"
+msgstr ""
+
+#: templates/hero.inc.php:17
+#, php-format
+msgid "For the term \"%s\""
+msgstr ""
+
+#: templates/hero.inc.php:20
+#, php-format
+msgid "Posted in \"%s\""
+msgstr ""
+
+#: templates/hero.inc.php:23
+#, php-format
+msgid "Posted with tag \"%s\""
+msgstr ""
+
+#: templates/hero.inc.php:25
+msgid "Archive"
+msgstr ""
+
+#: templates/hero.inc.php:27 templates/hero.inc.php:29
+#: templates/hero.inc.php:31
+#, php-format
+msgid "Posted in \"%s\""
+msgstr ""
+
+#: templates/hero.inc.php:34
+msgid "Author"
+msgstr ""
+
+#: templates/hero.inc.php:35
+#, php-format
+msgid "Posted in \"%s\""
+msgstr ""
+
+#: single-portfolio.php:38 single-portfolio.php:93
+#: single-portfolio.php:161
+msgid "Client"
+msgstr ""
+
+#: single-portfolio.php:47 single-portfolio.php:102
+#: single-portfolio.php:170
+msgid "Date"
+msgstr ""
+
+#: single-portfolio.php:56 single-portfolio.php:111
+#: single-portfolio.php:179
+msgid "Category"
+msgstr ""
+
+#: template-contact.php:56
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:63
+msgid "Phone"
+msgstr ""
+
+#: template-contact.php:70
+msgid "Fax"
+msgstr ""
+
+#: template-contact.php:77
+msgid "Address"
+msgstr ""
+
+#: template-contact.php:89
+msgid "Drop us a line"
+msgstr ""
